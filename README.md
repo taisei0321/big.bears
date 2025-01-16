@@ -3,7 +3,7 @@
   <head>
     <span style="font-size:220%">　<span style="color:#B94047">
   早稲田大学米式蹴球部BigBears</span> </span>　<br>
- <span style="font-size:220%"> 1,基本情報</span><br>
+ <span style="font-size:150%"> 1,基本情報</span><br>
     
     KCFA関東1部リーグ　TOP8所属 <br>
   
