@@ -3,7 +3,7 @@
   <head>
     <span style="font-size:220%">　<span style="color:#B94047">
   早稲田大学米式蹴球部BigBears</span> </span>　<br>
-<img src="IMG_3356 4.jpg"width="300"height=80"alt="a"<br>
+<img src="IMG_3356 4.jpg"width="200"height=80"alt="a"<br>
 
     
     <span style="font-size:150%"> 
